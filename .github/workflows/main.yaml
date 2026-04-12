@@ -35,7 +35,7 @@ jobs:
       - name: Build archive
         shell: bash
         run: |
-          binary_name="<BINARY_NAME>"
+          binary_name="windows-restrict-telemetry"
 
           dirname="$binary_name-${{ env.VERSION }}-windows"
           mkdir "$dirname"
