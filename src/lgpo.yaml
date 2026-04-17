@@ -897,10 +897,8 @@ default:
       SOFTWARE\Policies\Microsoft\Windows\Personalization
       LockScreenOverlaysDisabled
       DWORD:1
-
     - |
       Computer
       SOFTWARE\Policies\Microsoft\Windows\Personalization
       NoLockScreen
       DWORD:1
-
