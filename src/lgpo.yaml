@@ -1,11 +1,25 @@
-# Copyright flatplum (c)
-# 
-# This file provides a schema for entries of machine.txt and 
-# user.txt. Entries containing in .99 do not correspond to any 
-# documented entries on Microsoft's official website, 
-# https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services
-# (archived at https://archive.is/3rWQb), but have been grouped where
-# appropriate.
+#    This file provides a schema for entries of machine.txt and user.txt.
+#    Copyright (C) 2026  flatplum
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU Affero General Public License as
+#    published by the Free Software Foundation, either version 3 of the
+#    License, or (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU Affero General Public License for more details.
+#
+#    You should have received a copy of the GNU Affero General Public License
+#    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+#
+#    This file provides a schema for entries of machine.txt and 
+#    user.txt. Entries containing in .99 do not correspond to any 
+#    documented entries on Microsoft's official website, 
+#    https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services
+#    (archived at https://archive.is/3rWQb), but have been grouped where
+#    appropriate.
 
 default:
   # Automatic Root Certificates Update
